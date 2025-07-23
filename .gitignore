@@ -1,0 +1,34 @@
+# node_modules folder (dependency files)
+node_modules/
+
+# .next folder (Next.js build files)
+.next/
+
+# Build output
+out/
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode settings (if you don't want to track them)
+.vscode/
+
+# Mac-specific
+*.DS_Store
+
+# Windows-specific
+ehthumbs.db
+Icon?
